@@ -16,6 +16,8 @@ npm install
 npm run dev
 ```
 
+Kemudian buka alamat lokal yang ditampilkan Vite, biasanya `http://localhost:5173`.
+
 ## Build production
 
 ```bash
